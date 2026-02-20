@@ -17,7 +17,7 @@ This project demonstrates client–server communication, metadata management, an
 - **Client** – Takes user input and communicates with nodes  
 - **NameNode** – Maintains file metadata and locations  
 - **DataNodes** – Store replicated file blocks  
-## ▶️ How to Run
+## How to Run
 1. Start the NameNode server.
 2. Start DataNode servers.
 3. Run the Client program.
